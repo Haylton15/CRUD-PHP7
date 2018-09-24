@@ -1,5 +1,4 @@
 <?php
-	
 /**Arquivo para a listagem dos registros, e também será a página principal do módulo de clientes.*/
     require_once('functions.php');
     index();
@@ -65,5 +64,5 @@
 <?php endif; ?>
 </tbody>
 </table>
-
+<?php include('modal.php'); ?>
 <?php include(FOOTER_TEMPLATE); ?>

@@ -30,3 +30,4 @@ if ( !defined('DBAPI') )
 define('HEADER_TEMPLATE', ABSPATH . 'inc/header.php');
 define('FOOTER_TEMPLATE', ABSPATH . 'inc/footer.php');
 ?>
+

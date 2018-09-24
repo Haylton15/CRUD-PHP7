@@ -46,4 +46,5 @@
 
 <?php endif; ?>
 
+
 <?php include(FOOTER_TEMPLATE); ?>
